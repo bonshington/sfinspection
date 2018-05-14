@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.dropbox.com/s/gvb1ydppi693z34/SFInspection.ipa?dl=0</string>
+		<key>displayImageURL</key>
+		<string>https://4.bp.blogspot.com/-qH70FSojXb4/VuYYjLZRGjI/AAAAAAAAJJs/nuxOWmK6yVEk87Qdpmi5MjJHFnd538phg/s320/Screen%2BShot%2B2016-03-13%2Bat%2B6.48.49%2BPM.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://4.bp.blogspot.com/-qH70FSojXb4/VuYYjLZRGjI/AAAAAAAAJJs/nuxOWmK6yVEk87Qdpmi5MjJHFnd538phg/s320/Screen%2BShot%2B2016-03-13%2Bat%2B6.48.49%2BPM.png</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>NEYSD6N9XR</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

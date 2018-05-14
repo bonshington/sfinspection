@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.dropbox.com/s/gvb1ydppi693z34/SFInspection.ipa?dl=0</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://4.bp.blogspot.com/-qH70FSojXb4/VuYYjLZRGjI/AAAAAAAAJJs/nuxOWmK6yVEk87Qdpmi5MjJHFnd538phg/s320/Screen%2BShot%2B2016-03-13%2Bat%2B6.48.49%2BPM.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://4.bp.blogspot.com/-qH70FSojXb4/VuYYjLZRGjI/AAAAAAAAJJs/nuxOWmK6yVEk87Qdpmi5MjJHFnd538phg/s320/Screen%2BShot%2B2016-03-13%2Bat%2B6.48.49%2BPM.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>s.sopon.SFInspection</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>SFInspection</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

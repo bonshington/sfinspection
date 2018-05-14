@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SFInspection.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5B4D8B276A65AC45AC0B7E11BAF39947DE5AD690</string>
+				<key>dateExpires</key>
+				<string>1/5/21</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NEYSD6N9XR.s.sopon.SFInspection</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NEYSD6N9XR</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SFInspection.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>58a76c9c-7d9c-4cc6-a5dd-2b2110107e1e</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: s.sopon.SFInspection</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NEYSD6N9XR</string>
+				<key>name</key>
+				<string>RAIMON LAND UNIXX COMPANY LIMITED.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
